@@ -2,7 +2,7 @@
 # Mike Solie                             #
 # 03/01/2023                             #
 # Version 1.2                            #
-#   -->Added Username Function           #
+#   --->Added Username Function          #
 #                                        #
 # Description:                           #
 # Username Password Generator - Takes    #
